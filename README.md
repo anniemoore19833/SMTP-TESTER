@@ -1,6 +1,15 @@
 SMTP Tester
 Overview
 
+
+### Main Menu:
+![Main Menu Screenshot](https://github.com/anniemoore19833/SMTP-TESTER/blob/main/Screenshot%202024-11-30%20162628.png)
+
+git add README.md
+git commit -m "Added screenshot to README"
+git push origin main
+
+
 The SMTP Tester is a powerful and user-friendly tool to validate SMTP credentials. It allows users to test multiple SMTP servers quickly and efficiently while providing detailed results. The program is ideal for developers, system administrators, and email marketers.
 Features
 
@@ -22,18 +31,7 @@ Requirements
 
 Installation
 
-    Clone the Repository:
-
-git clone https://github.com/yourusername/smtp-tester.git
-cd smtp-tester
-
-Install Dependencies:
-
-pip install -r requirements.txt
-
-Run the Script:
-
-    python main.py
+DOWNLOAD AND RUN 
 
 How to Use
 
